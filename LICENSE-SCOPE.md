@@ -13,4 +13,4 @@ The author approved these licenses for the Volume 2 companion on November 18, 20
 
 Em português: MIT para código autoral; CC BY 4.0 para textos, figuras e dados sintéticos autorais deste companion. Células de código e texto do mesmo notebook seguem licenças diferentes. Preserve a atribuição, os avisos e a indicação de alterações. Dados de terceiros mantêm suas condições próprias. A concessão não abrange os livros, capas ou materiais privados.
 
-This licensed package is under private review. Licensing approval and private repository storage do not imply authorization for public release.
+The author authorized the public release of this supplementary package on November 24, 2026. These licenses do not cover the books, covers, full teaching notebooks, or private materials.

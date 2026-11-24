@@ -1,6 +1,6 @@
 # Companion materials — Book 2
 
-Private review package; not yet publicly released. Download the entire folder and keep the data paths. Run student notebooks from this language folder. Chapters 1–16 contain exercises; Chapter 17 contains the project template and worked solution. Full lessons are supplied separately in the local course.
+Public supplementary materials for Volume 2. Download the entire folder and keep the data paths. Run student notebooks from this language folder. Chapters 1–16 contain exercises; Chapter 17 contains the project template and worked solution. Full lessons are supplied separately in the local course.
 
 | Chapter | Exercises | Student notebook | Solutions |
 |---|---|---|---|

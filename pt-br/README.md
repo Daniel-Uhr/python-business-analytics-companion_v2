@@ -1,6 +1,6 @@
 # Materiais complementares — Livro 2
 
-Pacote em revisão privada; ainda não disponibilizado ao público. Baixe a pasta inteira; não mova os dados. Abra o notebook com a pasta deste idioma como diretório de trabalho. Exercícios nos capítulos 1–16; projeto com template e resolução no 17. As aulas completas são fornecidas separadamente no curso local.
+Materiais complementares públicos do Volume 2. Baixe a pasta inteira; não mova os dados. Abra o notebook com a pasta deste idioma como diretório de trabalho. Exercícios nos capítulos 1–16; projeto com template e resolução no 17. As aulas completas são fornecidas separadamente no curso local.
 
 | Capítulo | Exercícios | Notebook do estudante | Resoluções |
 |---|---|---|---|
